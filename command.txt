@@ -1,0 +1,1 @@
+cd /home/palash117/dev/linux_wallpaper_changer/ && /home/palash117/dev/linux_wallpaper_changer/dispalyChange.sh

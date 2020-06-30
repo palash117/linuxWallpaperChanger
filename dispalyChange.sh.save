@@ -1,0 +1,14 @@
+echo 'initializing display changer'
+files=(./res/*#echo "all files $files"
+#echo "${#files[@]}"
+for f in files
+do 
+	echo "file $f"
+	((count=count+1))
+done
+echo "$count"
+
+for i in {0..#files[@]}
+do
+	echo "file name: $files[i]"
+done
